@@ -22,6 +22,9 @@
   "author": "Oleh Meleshko",
   "license": "MIT",
   "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.27",
+    "@fortawesome/free-solid-svg-icons": "^5.12.1",
+    "@fortawesome/react-fontawesome": "^0.1.8",
     "file-loader": "^0.9.0",
     "moment": "^2.18.1",
     "prop-types": "^15.5.9",
